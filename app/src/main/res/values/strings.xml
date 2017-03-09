@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DrawerLayout</string>
+    <string name="nav_open">抽屉打开</string>
+    <string name="nav_close">抽屉关闭</string>
+    <string name="common_navigation_daily">每日推荐</string>
+    <string name="common_welfare">福利</string>
+    <string name="common_android">Android</string>
+    <string name="common_ios">iOS</string>
+    <string name="common_js">前端</string>
+    <string name="common_video">休息视频</string>
+    <string name="common_resources">拓展资源</string>
+    <string name="common_app">App</string>
+</resources>
